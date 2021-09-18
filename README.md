@@ -2,7 +2,7 @@
 
 Hi! This was just a fun and challenging task. I didn't have much experience with native _UI_ components before this, and the camera is such a huge part of so many mobile apps, I thought it was worth just putting together a quick native module to get a sense of the native platform APIs.
 
-Don't care about anything and just wanna try it out? [Skip to here](#installation&setup).
+Don't care about anything and just wanna try it out? [Skip to here](#installation--setup).
 
 ### Goals & scope
 
